@@ -1,4 +1,6 @@
-# Table of Contents
+# Table of Contents  
+## *Code Snippets*  
+- [*Loop through an Array*](./Code_Snippets/Loop_through_Array.js)  
 ## Section 1  
 - [ARRAYS and V1 Requirements](./Sections/v01_Arrays.md)  
 ## Section 2  
