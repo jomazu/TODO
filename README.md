@@ -1,4 +1,5 @@
 # Table of Contents  
+ToDo MVC Deconstructed  
 ## *Code Snippets*  
 - [*Loop through an Array*](./Code_Snippets/Loop_through_Array.js)  
 ## Section 1  

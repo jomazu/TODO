@@ -13,7 +13,7 @@ In JavaScript arrays are objects. Objects have properties and methods.
 - Properties - pieces of meta information about the object we can retrieve and use.  
 - Methods - are functions that belong to that object.  
 
----
+
 ## V1 Requirements
 Version 1 requirements (To Do application):  
 
@@ -23,7 +23,7 @@ Version 1 requirements (To Do application):
 - It should have a way to **CHANGE** a todo  
 - It should have a way to **DELETE** a todo  
 
----
+
 ## STORE
 Create a place to **STORE** todos.  
 
@@ -34,7 +34,7 @@ Example:
 > var todos = ['item 1', 'item 2', 'item 3'];
 ```
 
----
+
 ## DISPLAY
 Create a way to **DISPLAY** todos.  
 
@@ -54,7 +54,7 @@ Example:
 My Todos: [ 'item 1', 'item 2', 'item 3' ]
 ```
 
----
+
 ## ADD
 Create a way to **ADD** todos.  
 
@@ -69,7 +69,7 @@ Example:
 ["item 1", "item 2", "item 3", "item 4"]
 ```
 
----
+
 ## CHANGE
 Create a way to **CHANGE** todos.  
 
@@ -103,7 +103,7 @@ Example:
 ["item 1 updated", "item 2", "item 3", "item 4", "item 5 updated"]
 ```
 
----
+
 ## DELETE
 Create a way to **DELETE** todos.  
 
