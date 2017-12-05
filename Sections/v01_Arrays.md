@@ -127,5 +127,3 @@ Example:
 > todos;
 ["item 2"]
 ```
-
----

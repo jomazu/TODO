@@ -79,5 +79,3 @@ Lastly, when you have a function on an object, you do not have to give it a name
 - Enter a `Description` to name the file:  
   - `PJS - V3` - PJS for "Practical JavaScript Version 3"  
 - `Save`  
-
----

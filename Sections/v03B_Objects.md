@@ -192,5 +192,3 @@ My Todos: item 2,item 3
 ## Success is a Process
 Make sure to read Gordon Zhu's guide for asking questions:  
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)  
-
----

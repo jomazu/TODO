@@ -73,6 +73,3 @@ We want `.displayTodos` to tell us if `.todos` is empty - i.e. no todos in the l
 
 ## .displayTodos (show completed)
 Recall, each todo object has a completed property that is a boolean. We want to have `.displayTodos` show this information as well.  
-
-
----

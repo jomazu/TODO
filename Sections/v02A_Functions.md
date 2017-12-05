@@ -57,5 +57,3 @@ Conceptual example of customizing a function:
 > sayHiTo('John');
 Hi, John
 ```
-
----

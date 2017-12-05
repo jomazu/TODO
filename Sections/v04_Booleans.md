@@ -188,5 +188,3 @@ We changed the structure of the array to be an array of objects, rather than an 
 We modified our `changeTodo` method so that it only changes the todo text properties on each todo object.  
 
 We learned about booleans and how to take the opposite of a boolean value in our `toggleCompleted` method.  
-
----

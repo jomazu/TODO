@@ -135,5 +135,3 @@ function deleteTodo(position) {
   displayTodos();
 }
 ```
-
----

@@ -72,5 +72,3 @@ Array index (3): testArray.push
 ```
 
 Note: create the `for loop` first, then create a `function` to house (run) it.  
-
----
