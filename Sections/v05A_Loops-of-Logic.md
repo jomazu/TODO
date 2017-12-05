@@ -1,5 +1,5 @@
 # FOR LOOP
-The `for loop` allows you to repeat a certain amounmt of code any number of times.  
+The `for loop` allows you to repeat a certain amount of code any number of times.  
 
 Example in plain english, not code:  
 ```javascript
