@@ -1,11 +1,3 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
-
 # Objects - overview
 [Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) are used in JavaScript to group related data and functions together.  
 
@@ -41,13 +33,13 @@ purchaseYear 2015
 2015
 ```
 
----
+
 ## Objects and Functions
 The relationship between objects and functions.  
 You can actually place functions on objects.  
 
 Example, using an object that refers to itself, using [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this).  
-- `.this`  
+- `this`  
 
 Note, there is no need to use the function name (i.e. `function sayName()` etc.), because the function shown below knows to use the `sayName` property as the function name.  
 
@@ -79,7 +71,7 @@ In our example above, `sayName` is actually a **METHOD** on the `john` object.
 
 Lastly, when you have a function on an object, you do not have to give it a name, because the way the function is called is with the `property name`. This is referred to as an **ANONYMOUS FUNCTION**.  
 
----
+
 ## Plunker
 - `Login`  
 - `Launch the Editor`  

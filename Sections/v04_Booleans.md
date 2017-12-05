@@ -1,12 +1,4 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
----
-## V4 Requirements
+# V4 Requirements
 Version 4 requirements (To Do application):  
 
 - `todoList.addTodo` should **ADD** objects  
@@ -15,7 +7,7 @@ Version 4 requirements (To Do application):
 
 This section will also cover **Booleans**, which is a representation of true or false.  
 
----
+
 ## todoList.addTodo
 Right now we are adding `todos` as text. We are going to change this, so that `addTodo` will add **objects**, instead of text to our todo array.  
 
@@ -73,7 +65,7 @@ My Todos: [object Object]
 [ { todoText: 'new todo item', completed: false } ]
 ```
 
----
+
 ## todoList.changeTodo
 Now, we need to modify the `changeTodo` method, so that it changes just the `todoText` property on each todo object.  
 
@@ -109,7 +101,7 @@ My Todos: [object Object]
 [ { todoText: 'changed todo item', completed: false } ]
 ```
 
----
+
 ## todoList.toggleCompleted
 Now, we need to add a method called `toggleCompleted` that changes the value of the completed property, which is a boolean value (true or false).  
 
@@ -189,7 +181,7 @@ My Todos: [object Object],[object Object]
   { todoText: '2nd todo item', completed: true } ]
 ```
 
----
+
 ## Review
 We changed the structure of the array to be an array of objects, rather than an array of just text.  
 

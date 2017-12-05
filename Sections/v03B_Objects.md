@@ -1,12 +1,4 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
----
-## V3 Requirements
+# V3 Requirements
 Version 3 requirements (To Do application):  
 
 - It should **STORE** the todos array on an object  
@@ -19,7 +11,7 @@ This helps to organize our code and ensure that everthing related to a Todo list
 - It should have a **changeTodo** method  
 - It should have a **deleteTodo** method  
 
----
+
 ## STORE
 **STORE** the `todos array` on an `object`.  
 
@@ -39,7 +31,7 @@ var todoList = {
 
 Now, you can access the Plunker data inside of your `PJS - V3` program.  
 
----
+
 ## displayTodos
 Change the `displayTodos` function from a standalone function to a method on our `todoList` object.  
 
@@ -70,7 +62,7 @@ var todoList = {
 My Todos: item 1,item 2,item 3
 ```
 
----
+
 ## addTodo
 Change the `addTodo` function from a standalone function to a method on our `todoList` object.  
 
@@ -110,7 +102,7 @@ My Todos: item 1,item 2,item 3
 My Todos: item 1,item 2,item 3,item 4
 ```
 
----
+
 ## changeTodo
 Change the `changeTodo` function from a standalone function to a method on our `todoList` object.  
 
@@ -151,7 +143,7 @@ var todoList = {
 My Todos: plunker,item 2,item 3
 ```
 
----
+
 ## deleteTodo
 Change the `deleteTodo` function from a standalone function to a method on our `todoList` object.  
 
@@ -196,7 +188,7 @@ var todoList = {
 My Todos: item 2,item 3
 ```
 
----
+
 ## Success is a Process
 Make sure to read Gordon Zhu's guide for asking questions:  
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)  

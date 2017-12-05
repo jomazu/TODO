@@ -1,5 +1,9 @@
 # Table of Contents  
 ToDo MVC Deconstructed  
+## *Links*  
+- [*Watch and Code - Gordon Zhu*](https://watchandcode.com/)  
+- [*Todo MVC - Vanilla JavaScript (JS)*](http://todomvc.com/examples/vanillajs/)  
+- [*Plunker*](https://plnkr.co/)  
 ## *Code Snippets*  
 - [*Loop through an Array*](./Code_Snippets/Loop_through_Array.js)  
 ## Section 1  

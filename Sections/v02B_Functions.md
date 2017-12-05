@@ -1,12 +1,4 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
----
-## V2 Requirements
+# V2 Requirements
 Version 2 requirements (To Do application):  
 
 - It should have a function (recipe) to **DISPLAY** todos  
@@ -14,7 +6,7 @@ Version 2 requirements (To Do application):
 - It should have a function (recipe) to **CHANGE** todos  
 - It should have a function (recipe) to **DELETE** todos   
 
----
+
 ## DISPLAY
 Create a function to **DISPLAY** todos.  
 
@@ -32,7 +24,7 @@ Create a function to **DISPLAY** todos.
 My Todos: item 1,item 2,item 3
 ```
 
----
+
 ## ADD
 Create a function to **ADD** todos.  
 
@@ -55,7 +47,7 @@ My Todos: item 1,item 2,item 3,item 98
 
 In the `addTodo`, we used a concrete example about how to customize a function with a parameter, and how to use that parameter. Also, we used a function inside another function.
 
----
+
 ## CHANGE
 Create a function to **CHANGE** todos.  
 
@@ -79,7 +71,7 @@ My Todos: item 1,item 2,item 3,item 4
 
 The `changeTodo` example takes two parameters. The first parameter tells the function which item to change. The second parameter tells the function the new value that you want to set that item to. The `displayTodos` function is added inside `changeTodo` so that it displays the new `todos` array (list) after the change.  
 
----
+
 ## DELETE
 Create a function to **DELETE** todos.  
 
@@ -103,7 +95,7 @@ My Todos: item 2,item 3,item 4
 
 The `deleteTodo` function takes one parameter (position), to delete the item you want to get rid of at a specific position.  
 
----
+
 ## Review
 The list below shows the functions learned and used in this section:  
 

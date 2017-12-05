@@ -1,11 +1,3 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
-
 # FOR LOOP
 The `for loop` allows you to repeat a certain amounmt of code any number of times.  
 
@@ -47,7 +39,7 @@ Number: 6
 Number: 8
 ```
 
----
+
 ## LOOPING over Arrays
 Example using an array:  
 ```javascript

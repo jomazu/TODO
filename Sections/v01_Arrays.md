@@ -1,11 +1,3 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
-
 # Arrays
 An array (list) is an ordered collection of data. Arrays are used to store multiple values in a single variable.  
 
@@ -58,7 +50,7 @@ My Todos: [ 'item 1', 'item 2', 'item 3' ]
 ## ADD
 Create a way to **ADD** todos.  
 
-- [.push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) - the method used to **ADD** todos to the end of the list (array).  
+- [push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) - the method used to **ADD** todos to the end of the list (array).  
 
 Example:  
 ```javascript
@@ -107,7 +99,7 @@ Example:
 ## DELETE
 Create a way to **DELETE** todos.  
 
-- [.splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) - the method used to **DELETE** todos.  
+- [splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) - the method used to **DELETE** todos.  
 
 Example:  
 ```javascript

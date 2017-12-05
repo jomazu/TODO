@@ -1,11 +1,3 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
-
 # Functions - overview
 Functions are just recipes. Generally speaking, a function is a code snippet (subprogram) that can be called by other code, by itself, or a variable that refers to the function.  
 
@@ -31,7 +23,7 @@ makeSalamiSandwich
 makeSalamiSandwich();
 ```
 
----
+
 ## Customizing Functions
 - [Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function) - the names of the arguments to be passed to the function.  
 

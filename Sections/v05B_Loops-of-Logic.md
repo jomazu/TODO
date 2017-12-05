@@ -1,12 +1,4 @@
-# Useful Links
-1) [Watch and Code](https://watchandcode.com/)  
-
-2) [TodoMVC - Vanilla JavaScript Example](http://todomvc.com/examples/vanillajs/)  
-
-3) [Plunker](https://plnkr.co/)  
-
----
-## V5 Requirements
+# V5 Requirements
 Version 5 requirements (To Do application):  
 
 - `.displayTodos` should **SHOW** `.todoText`  
@@ -15,7 +7,7 @@ Version 5 requirements (To Do application):
 
 In this section we will use `FOR LOOPS` to fix `.displayTodos` and make them work properly.  
 
----
+
 ## .displayTodos
 We want the `.displayTodos` method to show the `.todoText` property.  
 
@@ -73,12 +65,12 @@ Recap...
 
 Note, we removed `${this.todos}` from the original `console.log` statement, because it was printing out objects to the console and was not very useful. Then we added a `FOR LOOP` to iterate through the todos array in the todoList object, and display the todoText for each index of the array.  
 
----
+
 ## .displayTodos (if empty)
 We want `.displayTodos` to tell us if `.todos` is empty - i.e. no todos in the list.  
 
 
----
+
 ## .displayTodos (show completed)
 Recall, each todo object has a completed property that is a boolean. We want to have `.displayTodos` show this information as well.  
 
