@@ -18,7 +18,7 @@ ToDo MVC Deconstructed
 - [BOOLEANS and V4 Requirements](./Sections/v04_Booleans.md)  
 ## Section 5  
 - [FOR LOOPS](./Sections/v05A_Loops-of-Logic.md)  
-- [V5 Requirements](./Sections/v05B_Loops-of-Logic.md)  
+- [V5 Requirements and IF ELSE](./Sections/v05B_Loops-of-Logic.md)  
 ## Section 6  
 ## Section 7  
 ## Section 8  
