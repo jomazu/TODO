@@ -20,8 +20,10 @@ ToDo MVC Deconstructed
 - [FOR LOOPS](./Sections/v05A_Loops-of-Logic.md)  
 - [V5 Requirements and IF ELSE](./Sections/v05B_Loops-of-Logic.md)  
 ## Section 6  
-- [V6 Requirements](./Sections/v06_Thinking_in_Code.md)  
+- [V6 Requirements](./Sections/v06A_Thinking_in_Code.md)  
+- [Data Types and Comparisons](./Sections/v06B_Data_Types_and_Comparisons.md)  
 ## Section 7  
+- [V7 Requirements](./Sections/v07_HTML_and_the_DOM.md)  
 ## Section 8  
 ## Section 9  
 ## Section 10  
