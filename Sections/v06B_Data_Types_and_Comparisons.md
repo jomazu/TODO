@@ -93,3 +93,68 @@ true
 > objectOne === objectOne;
 true
 ```
+
+Additional code examples...  
+```javascript
+/* ------ Example 1 ------ */
+> var myPrimitive = 10;
+> myPrimitive;
+10
+
+> var myObject = { name: 'John' };
+> myObject.name;
+'John'
+
+/* ------ Example 2 ------ */
+> var myHouse = { color: 'blue' };
+> myHouse.color;
+'blue'
+
+// Access the property on an object and change it
+> myHouse.color = 'red';
+> myHouse.color;
+'red'
+
+/* ------ Example 3 ------ */
+> var myHouse = { color: 'blue' };
+> myHouse.color;
+'blue'
+
+> var color = myHouse.color;
+> color;
+'blue'
+
+> color = 'red';
+> color
+'red'
+
+/* ------ Example 4 ------ */
+> var myHouse1 = { color: 'blue' };
+> var myHouse2 = myHouse1;
+
+> myHouse1.color;
+'blue'
+
+> myHouse2.color;
+'blue'
+
+> myHouse2.color = 'red';
+
+> myHouse1.color;
+'red'
+
+> myHouse2.color;
+'red'
+
+/* ------ Example 5 ------ */
+> var myHouse1 = { color: 'blue' };
+> var myHouse2 = { color: 'blue' };
+
+> myHouse2.color = 'red';
+
+> myHouse1.color;
+'blue'
+
+> myHouse2.color;
+'red'
+```
