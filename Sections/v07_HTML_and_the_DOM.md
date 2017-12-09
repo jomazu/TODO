@@ -204,7 +204,8 @@ An attriubute, simply gives an element additional information.
     
     <!--
     Moved the script tag right above the closing body tag.
-    This will ensure that the script.js file runs AFTER the HTML in index.html is parsed.
+    This will ensure that the script.js file runs AFTER
+    the HTML in index.html is parsed.
     --> 
     <script src="script.js"></script>
   </body>
