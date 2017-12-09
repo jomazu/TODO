@@ -203,9 +203,8 @@ An attriubute, simply gives an element additional information.
     <button>Toggle All</button>
     
     <!--
-    Moved the script tag right above the closing body tag,
-    so that the script.js file will run after the HTML in index.html
-    will be parsed first.
+    Moved the script tag right above the closing body tag.
+    This will ensure that the script.js file runs AFTER the HTML in index.html is parsed.
     --> 
     <script src="script.js"></script>
   </body>
