@@ -26,6 +26,8 @@ ToDo MVC Deconstructed
 - [V7 Requirements](./Sections/v07A_HTML_and_the_DOM.md)  
 - [V7 Debugger](./Sections/v07B_Debugger.md)  
 ## Section 8  
+- [Refactoring](./Sections/v08A_Refactoring.md)  
+- [Data from Inputs and V8 Requirements](./Sections/v08B_Data_from_Inputs.md)  
 ## Section 9  
 ## Section 10  
 ## Section 11  
