@@ -29,5 +29,6 @@ ToDo MVC Deconstructed
 - [Refactoring](./Sections/v08A_Refactoring.md)  
 - [Data from Inputs and V8 Requirements](./Sections/v08B_Data_from_Inputs.md)  
 ## Section 9  
+- [HTML List Elements and V9 Requirements](./Sections/v09_Escape_from_the_Console.md)  
 ## Section 10  
 ## Section 11  
