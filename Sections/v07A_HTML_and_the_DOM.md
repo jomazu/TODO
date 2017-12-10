@@ -301,11 +301,11 @@ In this step, we want to emulate what we did for the 'Display Todos' button, but
 Example - code logic:  
 ```javascript
 // 1. Get access to the 'Toggle All' button.
-var displayTodosButton = document.getElementById('displayTodosButton');
+var toggleAllButton = document.getElementById('toggleAllButton');
 
 // 2. Run the toggleAll method, when someone clicks the 'Toggle All' button.
-displayTodosButton.addEventListener('click', function() {
-  todoList.displayTodos();
+toggleAllButton.addEventListener('click', function() {
+  todoList.toggleAll();
 });
 ``` 
 

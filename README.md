@@ -23,7 +23,8 @@ ToDo MVC Deconstructed
 - [V6 Requirements](./Sections/v06A_Thinking_in_Code.md)  
 - [Data Types and Comparisons](./Sections/v06B_Data_Types_and_Comparisons.md)  
 ## Section 7  
-- [V7 Requirements](./Sections/v07_HTML_and_the_DOM.md)  
+- [V7 Requirements](./Sections/v07A_HTML_and_the_DOM.md)  
+- [V7 Debugger](./Sections/v07B_Debugger.md)  
 ## Section 8  
 ## Section 9  
 ## Section 10  
