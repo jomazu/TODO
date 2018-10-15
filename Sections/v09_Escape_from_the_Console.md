@@ -38,4 +38,5 @@ To append a node as the last child of a node, we use the following:
     <li></li>
 ```
 
-## 
+## myTestApp
+See the `index.html` and `script.js` files for code changes/additions...  
