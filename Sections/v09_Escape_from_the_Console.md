@@ -40,3 +40,47 @@ To append a node as the last child of a node, we use the following:
 
 ## myTestApp
 See the `index.html` and `script.js` files for code changes/additions...  
+
+---
+# setTimeout
+
+After 8 seconds (8000 milliseconds) have passed, the `console.log` message will print in the console.  
+
+Example...  
+```javascript
+setTimeout(() => {
+    console.log('8 seconds have passed.');
+}, 8000);
+```
+
+---
+# forEach
+
+Run `logName` over each student in the array.  
+
+Example...  
+```javascript
+var students = ['Tom', 'Joe', 'Karen'];
+
+function logName(name) {
+    console.log(name);
+}
+
+// This works
+for (var i = 0; i < students.length; i++) {
+    logName(students[i]);
+}
+
+// Result
+Tom 
+Joe
+Karen
+
+// Best practice using forEach
+students.forEach(logName)
+
+// Result
+Tom
+Joe
+Karen
+```
