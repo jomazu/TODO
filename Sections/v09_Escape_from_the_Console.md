@@ -55,6 +55,7 @@ setTimeout(() => {
 
 ---
 # forEach
+`forEach` is a built-in function on Array.  
 
 Run `logName` over each student in the array.  
 
@@ -77,7 +78,19 @@ Joe
 Karen
 
 // Best practice using forEach
-students.forEach(logName)
+students.forEach(function(name) {
+    console.log(name);
+})
+
+// Result
+Tom
+Joe
+Karen
+
+// More concise forEach using ES6
+students.forEach((name) => {
+    console.log(name);
+})
 
 // Result
 Tom
